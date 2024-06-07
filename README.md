@@ -1,5 +1,8 @@
 # Memory game
 
+![image](https://github.com/yuvalmaliniak/Memory-Game/assets/105196210/7b927340-81d1-4cf6-84ef-f2c392d09c10)
+
+
 A memory game application built with C# where you can play against the computer or agains another user. The board size ranges from 4x4 to 6x6.
 
 ## Table of Contents
