@@ -26,7 +26,8 @@ Follow the instructions in the Installation section to set up and build the proj
 
 - Single Player: Play against the computer - Choose 'C' when asked. 
 - Two Players: Play with another user - You can enter both names. 
-Board Size:
+
+### Board Size:
 
 The board size can be set from 4x4 to 6x6.
 During the game setup, you will be prompted to choose the game mode and board size.
