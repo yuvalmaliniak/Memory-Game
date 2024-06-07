@@ -248,7 +248,7 @@ namespace Ex02
             if (int.TryParse(i_Input, out int boardSize))
             {
                 // Check if size is between 4 and 6 inclusive
-                isValid = boardSize >= 2 && boardSize <= 6;
+                isValid = boardSize >= 4 && boardSize <= 6;
             }
             else
             {
